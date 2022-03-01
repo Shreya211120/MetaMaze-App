@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916692403328",
+    "project_id": "metamaze-7adc4",
+    "storage_bucket": "metamaze-7adc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916692403328:android:9231b22a57096c4cf35265",
+        "android_client_info": {
+          "package_name": "com.example.metamaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916692403328-3rp6dca74c8csje0a1s476bd9bn8nps7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmzXEa7v-VpulNvnBwT2Sp2RuUVnjN4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916692403328-3rp6dca74c8csje0a1s476bd9bn8nps7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
